@@ -1,0 +1,6 @@
+public String Printer<T>{
+
+Printer(){
+}
+
+}
